@@ -1,6 +1,6 @@
 # gallery
 this website is made by html5 and css3
-![Alt text](https://github.com/abdullah-FullStackDev/login-page/blob/main/ss.png)
+![Alt text](https://github.com/abdullah-FullStackDev/gallery/blob/main/ss.png)
 
 ## Built With
 
